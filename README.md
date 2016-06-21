@@ -1,3 +1,0 @@
-# ashbates.github.io
-
-testing
