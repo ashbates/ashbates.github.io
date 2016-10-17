@@ -258,6 +258,7 @@ h2.zero,p.zero {
 	margin: 5px;
 	border: 1px solid #ccc;
 	float: left;
-    	width: 180px;
+    	width: 130px;
+	height: auto;
 
 }
