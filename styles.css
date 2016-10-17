@@ -268,7 +268,7 @@ h2.zero,p.zero {
 p {
 	float: right;
 	margin-left: 150px;
-	/*padding-right: 150px;*/
+	margin-right: 150px;
 }
 
 .grid img { 
