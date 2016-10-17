@@ -256,9 +256,9 @@ h2.zero,p.zero {
 
 .grid {
 	margin: 5px;
-	border: 1px solid #ccc;
+	padding-top: 300px;
 	float: left;
-    	width: 130px;
+    	width: 160px;
 	height: auto;
 
 }
