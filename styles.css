@@ -254,3 +254,13 @@ h2.zero,p.zero {
 	padding: 0;
 }
 
+.grid {
+	position: absolute;
+	padding-top: 300px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	width:100%; /* you can use % */
+    height: auto;
+
+}
