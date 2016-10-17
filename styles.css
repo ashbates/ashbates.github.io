@@ -260,6 +260,7 @@ h2.zero,p.zero {
 	float: bottom;
     	width: 300px;
 	height: auto;
+	display: block;
 
 }
 
