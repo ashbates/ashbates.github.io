@@ -267,8 +267,11 @@ h2.zero,p.zero {
 
 p {
 	float: right;
+	padding-left: 150px;
+	padding-right: 150px;
 }
 
 .grid img { 
 	width: 300px; 
-	height: auto; }
+	height: auto;
+}
