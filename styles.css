@@ -255,15 +255,14 @@ h2.zero,p.zero {
 }
 
 .grid {
-	margin: 100px;
+	margin: bottom;
 	/*padding-top: 300px;*/
-	float: bottom;
-    	width: 300px;
+    width: 300px;
 	height: auto;
-	display: block;
 
 }
 
-/*p {
-	margin-top: -40px;
-}*/
+p {
+	float: right;
+}
+
