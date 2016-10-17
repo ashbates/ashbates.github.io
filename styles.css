@@ -258,7 +258,7 @@ h2.zero,p.zero {
 	position: absolute;
 	padding-top: 300px;
 	padding-bottom: 25px;
-	width:100%; /* you can use % */
-    height: auto;
+	width:40%; /* you can use % */
+    	height: auto;
 
 }
