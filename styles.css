@@ -256,9 +256,9 @@ h2.zero,p.zero {
 
 .grid {
 	position: absolute;
-	padding-top: 300px;
+	padding-top: 30px;
 	padding-bottom: 25px;
-	width:40%; /* you can use % */
+	width:50%; /* you can use % */
     	height: auto;
 
 }
