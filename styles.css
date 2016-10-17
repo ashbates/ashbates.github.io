@@ -255,10 +255,10 @@ h2.zero,p.zero {
 }
 
 .grid {
-	margin: 10px;
+	margin: 100px;
 	/*padding-top: 300px;*/
 	float: bottom;
-    	width: 180px;
+    	width: 300px;
 	height: auto;
 
 }
