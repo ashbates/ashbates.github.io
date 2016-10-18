@@ -258,11 +258,11 @@ h2.zero,p.zero {
 }
 
 .grid {
-	margin: bottom;
+	/*margin: bottom;*/
 	/*padding-top: 300px;*/
     	width: 50%;
 	height: 50%;
-	margin-top: 150px;
+	margin-top: 350px;
 
 }
 
