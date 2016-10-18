@@ -172,6 +172,7 @@ body {
 .top{
 	width:100%; /* you can use % */
 	height: auto;
+	margin-top: 50px;
 }
 /*HEADER SECTION*/
 #head {
