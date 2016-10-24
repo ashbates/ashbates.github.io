@@ -278,7 +278,7 @@ h2.zero,p.zero {
 }
 
 img.resize{
-    width:540px; /* you can use % */
+    width:400px; /* you can use % */
     height: auto;
     float: left;
 }
